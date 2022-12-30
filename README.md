@@ -1,5 +1,8 @@
 # magicalities
+
 minetest mod that adds magic
+
+The original mod author abandoned the mod, so I'm taking over as maintainer
 
 
 ## Usage
